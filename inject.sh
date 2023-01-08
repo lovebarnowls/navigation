@@ -1,5 +1,8 @@
 #!/bin/bash
 
+$mickeymouseownsstarwarsnow
+
+
 sudo useradd occamrazor
 
 sudo mkdir -p /home/occamrazor/Desktop/dir1/dir2/dir3/dir4/dir5
