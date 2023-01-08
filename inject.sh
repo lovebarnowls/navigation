@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#mickeymouseownsstarwarsnow
-
 
 sudo useradd yoda
 #create dragobah stage
@@ -43,32 +41,20 @@ sudo echo 'Not this' > /home/yoda/desktop/naboo/veruna/readme.txt
 
 #create rori files
 sudo echo 'Use grep to find the word starfighter in amidala.txt. Your next clue is in the same line.' > /home/yoda/desktop/naboo/rori/readme.txt
-sudo echo -e "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26 - use grep to find the word starfighter in palpatine.txt. May contain uppercase letters. Your next clue is within 5 lines of starfighter.\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40 > /home/yoda/desktop/naboo/rori/amidala.txt
+sudo echo -e "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26 use grep to find the word starfighter in palpatine.txt. May contain uppercase letters. Your next clue is within 5 lines of starfighter\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40 > /home/yoda/desktop/naboo/rori/amidala.txt
+sudo echo -e "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19sTarFigHter\n20\n21\n22\n23 The clue to your next destination is on the 8th line from the bottom of pooja.txt\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40 > /home/yoda/desktop/naboo/rori/palpatine.txt
+sudo echo -e "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33 Please navigate to /yoda/desktop/endor\n34\n35\n36\n37\n38\n39\n40 > /home/yoda/desktop/naboo/rori/palpatine.txt
 
+#create endor 
+sudo mkdir -p /home/yoda/desktop/endor
+sudo echo 'ackbarsecretcommunication.txt has a clue in base64. Decode it for your next clue.' > /home/yoda/desktop/endor/readme.txt
+sudo echo 'AFUAcwBlACAAZABpAGYAZgAgAG8AbgAgAGQAZQBhAHQAaABzAHQAYQByAHAAbABhAG4AMQAuAHQAeAB0ACAAYQBuAGQAIABkAGUAYQB0AGgAcwB0AGEAcgBwAGwAYQBuADIALgB0AHgAdAAgAHQAbwAgAGYAaQBuAGQAIAB5AG8AdQByACAAbgBlAHgAdAAgAGQAZQBzAHQAaQBuAGEAdABpAG8Abg==' > /home/yoda/desktop/endor/ackbarsecretcommunication.txt
+sudo echo -e "1\n2\n3\n4\n5\n6\n7 Go\n8\n9\n10\n11\n12\n13\n14\n15 /home\n16\n17\n18\n19\n20\n21 /desktop\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40 > /home/yoda/desktop/endor/deathstarplan1.txt
+sudo echo -e "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12 To\n13\n14\n15\n16\n17 /yoda\n18\n19\n20\n21\n22\n23\n24\n25\n26 /deathstar\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40 > /home/yoda/desktop/endor/deathstarplan2.txt
 
-#SHA1 hash Q1
-sudo echo 'lawofparsimony' > /home/occamrazor/Desktop/dir1/q1.txt
-
-#base64 decrypt Q2
-sudo echo 'bm92YWN1bGEgT2NjYW1p' > /home/occamrazor/Desktop/dir1/q2.txt
-
-#Binary Q3
-sudo echo '0111011101101000011110010110100101110011011101000110100001101001011100110110011101110101011110010111010001100001011011000110101101101001011011100110011101100001011000100110111101110101011101000110111101100011011000110110000101101101' > /home/occamrazor/Desktop/dir1/dir2/q3.txt
-
-# base64 + SHA256 Q4
-sudo echo 'aG93YWJvdXRhdXRodXJjb25hbmRveWxl' > /home/occamrazor/Desktop/dir1/dir2/q4.txt
-
-#reverse base64 Q5
-sudo echo '==wcllGdpxWail2cz9GcsxWYkVGdh5WatlGblVmdhhWdvlnblh2d' > /home/occamrazor/Desktop/dir1/dir2/dir3/q5.txt
-
-#Morse Q6
-sudo echo '100 1111 10 0 1 1110 1 101 101 1 00 10 11 01 111 01 000 00 10 0 0 1 101 1111 000 100 11 00 1001 000 111 111 11 0111 1011 1' > /home/occamrazor/Desktop/dir1/dir2/dir3/q6.txt
-
-# Hidden file to decode Q7 Caesar Shift
-sudo echo 'rzxygjymjywzym' > /home/occamrazor/Desktop/dir1/dir2/dir3/dir4/.q7.txt
-
-
-#cat with spaces in file name morse
-sudo echo '1011 111 001 11 01 100 0 00 1 1 111 1 0000 0 0 10 100' >  /home/occamrazor/Desktop/dir1/dir2/dir3/dir4/dir5/the\ end.txt
-
+#create deathstar
+sudo mkdir -p /home/yoda/desktop/deathstar/.exhaustport
+sudo echo 'Your next destination is somewhere around here, but it's not visible?' > /home/yoda/desktop/deathstar/readme.txt
+sudo echo 'Almost at the end. Open the other txt file in this folder and copy the message into the answer for forensic1' > /home/yoda/desktop/deathstar/.exhaustport/readme.txt
+sudo echo 'mickeymouseownsstarwarsnow' > /home/yoda/desktop/deathstar/.exhaustport/Ka\ BOOM.txt
 
