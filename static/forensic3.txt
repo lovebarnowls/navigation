@@ -1,9 +1,0 @@
-Occam's wife has played a prank on Occam and saved a note on his computer in:
-/home/occamrazor/Desktop/dir1/dir2/q3.txt
-
-What is her message?
-
-ANSWER: <Type answer here>
-
-
-Note: There must be a single space between the colon and the beginning of your answer. There may be no spaces in your answer.  If your answer requires spaces, please use the underscore "_" in place of the space.  Do not include the carets (< >) in your answer.
