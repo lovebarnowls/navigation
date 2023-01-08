@@ -1,10 +1,7 @@
 
-This is a practice image for forensic questions.
-All worked answers can be found in forensic9.txt
+This is a practice image for navigation.
+Your job is to get to /yoda/desktop/dragobah, and use navigation and file opening tools to find the final message.
+The final message can then be put into the answer for forensic1, to see if you got it all.
+Forensic1 is the only scored item on this image.
 
-The only authorized users (not that it matters) are:
-
-	ubuntu
-	occam
-
-Please open all forensics*.txt questions on the desktop and start working through them.
+Happy practicing!
