@@ -1,9 +1,7 @@
 
 ## Customisation for Cybertaipan
 
-ForensicA Image for Cybertaipan practice.
-Only has 8 Forensic Questions involving crytography (Files forensic1.txt to forensic8.txt)
-Forensic9.txt contains answers
+An image for navigation practice. Use cd, ls, grep, find functions to find the final secret message!
 
 
 ```
@@ -12,11 +10,11 @@ cd ~
 if got clone doesn't work, require apt install.
 sudo apt-get update
 sudo apt install git
-sudo git clone https://github.com/lovebarnowls/forensica.git
+sudo git clone https://github.com/lovebarnowls/navigation.git
 continue with below instructions
 
 
-cd forensica
+cd navigation
 
 sudo chmod a+x *.sh
 
