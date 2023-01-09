@@ -56,4 +56,4 @@ sudo echo -e "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12 To\n13\n14\n15\n16\n17 /yoda
 sudo mkdir -p /home/yoda/desktop/deathstar/.exhaustport
 sudo echo "Your next destination is somewhere around here, but it's not visible?" > /home/yoda/desktop/deathstar/readme.txt
 sudo echo 'Almost at the end. Open the other txt file in this folder and copy the message into the answer for forensic1' > /home/yoda/desktop/deathstar/.exhaustport/readme.txt
-sudo echo 'mickeymouseownsstarwarsnow' > /home/yoda/desktop/deathstar/.exhaustport/.Ka\ BOOM.txt
+sudo echo 'mickeymouseownsstarwarsnow' > /home/yoda/desktop/deathstar/.exhaustport/Ka\ BOOM.txt
