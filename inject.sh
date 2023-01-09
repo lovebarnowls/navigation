@@ -20,7 +20,7 @@ sudo echo 'your next destination is /home/yoda/desktop/XXXXX, where you need to 
 sudo echo 'the first letter is n. Your destination is /home/yoda/desktop/nXXXX' > /home/yoda/desktop/bespin/cloud1/readme.txt
 sudo echo 'the second letter is a. Your destination is /home/yoda/desktop/XaXXX' > /home/yoda/desktop/bespin/cloud2/readme.txt
 sudo echo 'the third letter is b. Your destination is /home/yoda/desktop/XXbXX' > /home/yoda/desktop/bespin/cloud2/cloud3/readme.txt
-sudo echo 'the fourth letter is n. Your destination is /home/yoda/desktop/XXXXoX' > /home/yoda/desktop/bespin/cloud1/cloud4/readme.txt
+sudo echo 'the fourth letter is o. Your destination is /home/yoda/desktop/XXXXoX' > /home/yoda/desktop/bespin/cloud1/cloud4/readme.txt
 sudo echo 'the fifth letter is o. Your destination is /home/yoda/desktop/XXXXo' > /home/yoda/desktop/bespin/cloud5/readme.txt
 
 #create naboo rooms
