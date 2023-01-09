@@ -30,7 +30,7 @@ sudo mkdir -p /home/yoda/desktop/naboo/rori
 
 sudo echo 'There is a file within this directory (and subdirectories) called padme.txt. Open padme.txt for your next clue.' > /home/yoda/desktop/naboo/readme.txt
 sudo echo 'Find a subdirectory back on /yoda/desktop/naboo with the name: jarjarbinks. The folder name may contain uppercase letters. Navigate to that folder and open the readme in that folder to gain a clue to your next destination.' > /home/yoda/desktop/naboo/onoan/1/2/3/4/padme.txt
-sudo echo 'Well done! Now make your way to /home/yoda/desktop/rori' > /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/JarJarbiks/JarjarBinKs/readme.txt
+sudo echo 'Well done! Now make your way to /home/yoda/desktop/naboo/rori' > /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/JarJarbiks/JarjarBinKs/readme.txt
 #create readmes for all other jarjarbink folders
 sudo echo 'Not this' > /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/JarJarbiks/JarjarBinKs/jarBinkjar.readme.txt
 sudo echo 'Not this' > /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/JarJarbiks/readme.txt
