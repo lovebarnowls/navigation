@@ -3,7 +3,7 @@ s_config = """
 debug = no
 scoreReportLocation = /home/ubuntu/Desktop/ScoreReport.html
 remoteReportingenabled = no
-remoteReportingServer = https://www.nicholaslau.com
+remoteReportingServer = http://cybertaipan.mensa.org.au
 remoteReportingRound = CyberTaipan
 timeLimit = 150
 
