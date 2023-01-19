@@ -4,7 +4,24 @@
 
 An image for navigation practice. Use cd, ls, grep, find functions to find the final secret message!
 
+
+Local user (VMWare etc)
+cd ~
+
+if got clone doesn't work, require apt install.
+sudo apt-get update
+sudo apt install git
+sudo git clone https://github.com/lovebarnowls/navigation.git
+cd navigation
+sudo chmod a+x *.sh
+sudo -H ./inject.sh
+sudo -H ./install.sh
+
+
+Customization for AWS 
+
 #!/bin/bash
+
 chown ubuntu:ubuntu /home/ubuntu/Desktop/*
 chmod a+rw /home/ubuntu/Desktop/*
 mkdir -p usr/local/bin/pysel/Event_checks
