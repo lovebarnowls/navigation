@@ -1,3 +1,4 @@
+s_config = """
 [General:Options]
 debug = no
 scoreReportLocation = /home/ubuntu/Desktop/ScoreReport.html
