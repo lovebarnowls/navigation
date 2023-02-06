@@ -1,3 +1,6 @@
+Note: Users on AWS may need to run the following code if they don't have permissions to write files etc:
+sudo -i
+
 
 This is a practice image for navigation using the terminal.
 Please DO NOT cheat using Gnome (the Graphic User Interface)
