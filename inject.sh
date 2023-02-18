@@ -48,7 +48,7 @@ sudo echo -e "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\
 #create endor 
 sudo mkdir -p /home/yoda/desktop/endor
 sudo echo 'ackbarsecretcommunication.txt has a clue in base64. Decode it for your next clue.' > /home/yoda/desktop/endor/readme.txt
-sudo echo 'AFUAcwBlACAAZABpAGYAZgAgAG8AbgAgAGQAZQBhAHQAaABzAHQAYQByAHAAbABhAG4AMQAuAHQAeAB0ACAAYQBuAGQAIABkAGUAYQB0AGgAcwB0AGEAcgBwAGwAYQBuADIALgB0AHgAdAAgAHQAbwAgAGYAaQBuAGQAIAB5AG8AdQByACAAbgBlAHgAdAAgAGQAZQBzAHQAaQBuAGEAdABpAG8Abg==' > /home/yoda/desktop/endor/ackbarsecretcommunication.txt
+sudo echo 'Use diff on deathstarplan1.txt and deathstarplan2.txt to find your next destination' | base64 > /home/yoda/desktop/endor/ackbarsecretcommunication.txt
 sudo echo -e "1\n2\n3\n4\n5\n6\n7 Go\n8\n9\n10\n11\n12\n13\n14\n15 /home\n16\n17\n18\n19\n20\n21 /desktop\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40" > /home/yoda/desktop/endor/deathstarplan1.txt
 sudo echo -e "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12 To\n13\n14\n15\n16\n17 /yoda\n18\n19\n20\n21\n22\n23\n24\n25\n26 /deathstar\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40" > /home/yoda/desktop/endor/deathstarplan2.txt
 
