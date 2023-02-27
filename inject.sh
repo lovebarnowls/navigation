@@ -1,6 +1,7 @@
 #!/bin/bash
 sudo DEBIAN_FRONTEND=noninteractive apt-get install -qq postfix < /dev/null > /dev/null
 sudo apt install gedit -y -qq
+sudo echo -e "ubuntu\nubuntu" | passwd ubuntu
 
 sudo useradd yoda
 #create dragobah stage
