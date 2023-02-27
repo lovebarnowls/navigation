@@ -227,9 +227,9 @@ msg = HTTP traffic is allowed through firewall
 enabled = yes
 tag = Local Policy
 pointValue = 0
-parameters = /etc/passwd:*.anakin.*rbash.*
+parameters = /etc/passwd:*anakin*rbash*
 description = Text you would like added to file
-msg = User amenhotepiii has been set to a restricted bash shell
+msg = User anakin has been set to a restricted bash shell
 
 [28-DennisNoSsh:File_now_contains]
 enabled = no
