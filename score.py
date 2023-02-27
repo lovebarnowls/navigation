@@ -3,7 +3,7 @@ s_config = """
 debug = no
 scoreReportLocation = /home/ubuntu/Desktop/ScoreReport.html
 remoteReportingenabled = no
-remoteReportingServer = http://cybertaipan.mensa.org.au
+remoteReportingServer = https://www.nicholaslau.com
 remoteReportingRound = CyberTaipan
 timeLimit = 150
 
@@ -24,10 +24,10 @@ description = Users that should be removed from the system
 msg = Unwanted user %PARAMETER% has been removed: 
 
 [02-AddMacDee:Add_users]
-enabled = no
+enabled = yes
 tag = User Management
-pointValue = 10
-parameters = bentancur kulusevski
+pointValue = 0
+parameters = anakin
 description = Users that need to be added to the system
 msg = New user %PARAMETER% added to system 
 
@@ -224,10 +224,10 @@ description = Port number that should exist in firewall rules
 msg = HTTP traffic is allowed through firewall
 
 [27-CharlieRbase:File_now_contains]
-enabled = no
+enabled = yes
 tag = Local Policy
-pointValue = 4
-parameters = /etc/passwd:*.amenhotepiii.*rbash.*
+pointValue = 0
+parameters = /etc/passwd:*.anakin.*rbash.*
 description = Text you would like added to file
 msg = User amenhotepiii has been set to a restricted bash shell
 
@@ -262,6 +262,7 @@ pointValue = 5
 parameters = /opt/listen.sh
 description = Files you want removed from the system
 msg = Netcat backdoor removed: %PARAMETER%
+
 
 
 """
