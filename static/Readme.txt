@@ -8,4 +8,8 @@ Your job is to get to /home/yoda/desktop/dragobah, and use navigation and file o
 The final message can then be put into the answer for forensic1, to see if you got it all.
 Forensic1 is the only scored item on this image.
 
+Extension
+Create user anakin [Scores 0 points on the image]
+Put user anakin on a restricted bash shell [scores 0 points on the image]
+
 Happy practicing!
