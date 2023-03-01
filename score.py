@@ -259,7 +259,7 @@ msg = Webserver root directory is owned by group banana
 enabled = yes
 tag = Prohibited File
 pointValue = 0
-parameters = /home/yoda/desktop/hoth/glacier1/dancingtauntaun.avi /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/fallingchickenwalker.flv /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/tooshortforastormtrooper.mkv /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/.glacier5/hangingwampa.mov /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/JarJarbiks/JarjarBinKs/jarBinkjar/jarbinkjarbink/atatexplosion.mp4 /home/yoda/desktop/naboo/onoan/1/2/3/4/5/6/leiasinging.mp3 /home/yoda/desktop/deathstar/.exhaustport/.somethinghere/darthvaderbreath.flac /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/.senatorcontact.sql /home/yoda/payroll.xls /home/yoda/desktop/bespin/starfighterregistrations.accdb
+parameters = /home/yoda/desktop/hoth/glacier1/dancingtauntaun.avi /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/fallingchickenwalker.flv /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/tooshortforastormtrooper.mkv /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/.glacier5/hangingwampa.mov /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/JarJarbiks/JarjarBinKs/jarBinkjar/jarbinkjarbink/atatexplosion.mp4 /home/yoda/desktop/naboo/onoan/1/2/3/4/5/6/lightsabersound.mp3 /home/yoda/desktop/deathstar/.exhaustport/.somethinghere/darthvaderbreath.flac /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/.senatorcontact.sql /home/yoda/payroll.xls /home/yoda/desktop/bespin/starfighterregistrations.accdb
 description = Files you want removed from the system
 msg = Unauthorized file removed: %PARAMETER%
 
