@@ -67,7 +67,7 @@ sudo touch /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/fallingchickenwalk
 sudo touch /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/tooshortforastormtrooper.mkv
 sudo touch /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/.glacier5/hangingwampa.mov
 sudo touch /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/JarJarbiks/JarjarBinKs/jarBinkjar/jarbinkjarbink/atatexplosion.mp4
-sudo touch /home/yoda/desktop/naboo/onoan/1/2/3/4/5/6/leiasinging.mp3
+sudo touch /home/yoda/desktop/naboo/onoan/1/2/3/4/5/6/lightsabersound.mp3
 sudo touch /home/yoda/desktop/deathstar/.exhaustport/.somethinghere/darthvaderbreath.flac
 sudo touch /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/.senatorcontact.sql
 sudo touch /home/yoda/payroll.xls
