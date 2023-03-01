@@ -26,8 +26,8 @@ sudo echo 'the fourth letter is o. Your destination is /home/yoda/desktop/XXXXoX
 sudo echo 'the fifth letter is o. Your destination is /home/yoda/desktop/XXXXo' > /home/yoda/desktop/bespin/cloud5/readme.txt
 
 #create naboo rooms
-sudo mkdir -p /home/yoda/desktop/naboo/onoan/1/2/3/4/5
-sudo mkdir -p /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/JarJarbiks/JarjarBinKs/jarBinkjar
+sudo mkdir -p /home/yoda/desktop/naboo/onoan/1/2/3/4/5/6
+sudo mkdir -p /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/JarJarbiks/JarjarBinKs/jarBinkjar/jarbinkjarbink
 sudo mkdir -p /home/yoda/desktop/naboo/rori
 
 sudo echo 'There is a file within this directory (and subdirectories) called padme.txt. Open padme.txt for your next clue.' > /home/yoda/desktop/naboo/readme.txt
@@ -55,7 +55,20 @@ sudo echo -e "1\n2\n3\n4\n5\n6\n7 Go\n8\n9\n10\n11\n12\n13\n14\n15 /home\n16\n17
 sudo echo -e "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12 To\n13\n14\n15\n16\n17 /yoda\n18\n19\n20\n21\n22\n23\n24\n25\n26 /deathstar\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40" > /home/yoda/desktop/endor/deathstarplan2.txt
 
 #create deathstar
-sudo mkdir -p /home/yoda/desktop/deathstar/.exhaustport
+sudo mkdir -p /home/yoda/desktop/deathstar/.exhaustport/.somethinghere
 sudo echo "Your next destination is somewhere around here, but it's not visible?" > /home/yoda/desktop/deathstar/readme.txt
 sudo echo 'Almost at the end. Open the other txt file in this folder and copy the message into the answer for forensic1' > /home/yoda/desktop/deathstar/.exhaustport/readme.txt
 sudo echo 'mickeymouseownsstarwarsnow' > /home/yoda/desktop/deathstar/.exhaustport/Ka\ BOOM.txt
+
+#Extension create hoth
+sudo mkdir -p /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/.glacier5
+sudo touch /home/yoda/desktop/hoth/glacier1/dancingtauntaun.avi
+sudo touch /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/fallingchickenwalker.flv
+sudo touch /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/tooshortforastormtrooper.mkv
+sudo touch /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/.glacier5/hangingwampa.mov
+sudo touch /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/JarJarbiks/JarjarBinKs/jarBinkjar/jarbinkjarbink/atatexplosion.mp4
+sudo touch /home/yoda/desktop/naboo/onoan/1/2/3/4/5/6/leiasinging.mp3
+sudo touch /home/yoda/desktop/deathstar/.exhaustport/.somethinghere/darthvaderbreath.flac
+sudo touch /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/.senatorcontact.sql
+sudo touch /home/yoda/payroll.xls
+sudo touch /home/yoda/desktop/bespin/starfighterregistrations.accdb
