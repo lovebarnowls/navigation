@@ -11,9 +11,7 @@ Forensic1 is the only scored item on this image.
 Happy practicing!
 
 Extension
-Create user anakin [Scores 0 points on the image]
-Put user anakin on a restricted bash shell [Not scored]
-Think of some situations (perhaps a business?) where a restricted bash shell would be used. 
-Would it be a good idea to add additional security protocols? Why or why not?
+There are 10 unauthorized files on this device, that are either media or database files. Get rid of them.
+(You will know if it's the right file if it shows up in the scoring system, even if it's 0 marks)
 
 
