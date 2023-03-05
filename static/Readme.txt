@@ -11,7 +11,7 @@ Forensic1 is the only scored item on this image.
 Happy practicing!
 
 Extension
-There are 10 unauthorized files on this device, that are either media or database files. Get rid of them.
+There are 15 unauthorized files on this device, that are either media or database files. Get rid of them.
 (You will know if it's the right file if it shows up in the scoring system, even if it's 0 marks)
 
 
