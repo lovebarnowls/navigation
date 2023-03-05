@@ -75,7 +75,7 @@ sudo touch /home/yoda/stormtrooperpayroll.xls
 sudo touch /home/yoda/desktop/bespin/.starfighterregistrations.accdb
 sudo touch /home/yoda/desktop/.yavin/.biggsandwedge.jfif
 sudo touch /home/yoda/desktop/.yavin/.yavin4/.yavin8/obiwanlightsaberpic.tiff
-sudo touch /home/yoda/desktop/.yavin/.yavin4/.yavin8/.yavin13/.achtnak/bobafettcompletedbounty.db
+sudo touch /home/yoda/desktop/.yavin/.yavin4/.yavin8/.yavin13/.achtnak/bobafettcompletedbounty.xlsx
 sudo touch /home/ubuntu/Desktop/.slave1maintenancelog.xlsm
 sudo touch /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/JarJarbiks/JarjarBinKs/jarBinkjar/jarbinkjarbink/.chewbaccaanimated.gif
 
