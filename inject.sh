@@ -62,7 +62,7 @@ sudo echo 'mickeymouseownsstarwarsnow' > /home/yoda/desktop/deathstar/.exhaustpo
 
 #Extension create hoth
 sudo mkdir -p /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/.glacier5
-sudo mkdir -p home/yoda/desktop/.yavin/.yavin4/.yavin8/.yavin13/.achtnak
+sudo mkdir -p /home/yoda/desktop/.yavin/.yavin4/.yavin8/.yavin13/.achtnak
 sudo touch /home/yoda/desktop/hoth/glacier1/dancingtauntaun.avi
 sudo touch /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/fallingchickenwalker.flv
 sudo touch /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/tooshortforastormtrooper.mkv
