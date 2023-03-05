@@ -62,6 +62,7 @@ sudo echo 'mickeymouseownsstarwarsnow' > /home/yoda/desktop/deathstar/.exhaustpo
 
 #Extension create hoth
 sudo mkdir -p /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/.glacier5
+sudo mkdir -p home/yoda/desktop/.yavin/.yavin4./.yavin8/.yavin13/.achtnak
 sudo touch /home/yoda/desktop/hoth/glacier1/dancingtauntaun.avi
 sudo touch /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/fallingchickenwalker.flv
 sudo touch /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/tooshortforastormtrooper.mkv
@@ -69,6 +70,12 @@ sudo touch /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/.glacier5
 sudo touch /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/JarJarbiks/JarjarBinKs/jarBinkjar/jarbinkjarbink/atatexplosion.mp4
 sudo touch /home/yoda/desktop/naboo/onoan/1/2/3/4/5/6/lightsabersound.mp3
 sudo touch /home/yoda/desktop/deathstar/.exhaustport/.somethinghere/darthvaderbreath.flac
-sudo touch /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/.senatorcontact.sql
-sudo touch /home/yoda/payroll.xls
-sudo touch /home/yoda/desktop/bespin/starfighterregistrations.accdb
+sudo touch /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/.naboosenatorcontact.sql
+sudo touch /home/yoda/stormtrooperpayroll.xls
+sudo touch /home/yoda/desktop/bespin/.starfighterregistrations.accdb
+sudo touch /home/yoda/desktop/.yavin/.biggsandwedge.jfif
+sudo touch /home/yoda/desktop/.yavin/.yavin4./.yavin8/obiwanlightsaberpic.tiff
+sudo touch /home/yoda/desktop/.yavin/.yavin4./.yavin8/.yavin13/.achtnak/bobafettcompletedbounty.db
+sudo touch /home/ubuntu/Desktop/.slave1maintenancelog.xlsm
+sudo touch /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/jarJar/JarJarbiks/JarjarBinKs/jarBinkjar/jarbinkjarbink/.chewbaccaanimated.gif
+
