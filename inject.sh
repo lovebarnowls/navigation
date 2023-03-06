@@ -61,10 +61,10 @@ sudo echo 'Almost at the end. Open the other txt file in this folder and copy th
 sudo echo 'mickeymouseownsstarwarsnow' > /home/yoda/desktop/deathstar/.exhaustport/Ka\ BOOM.txt
 
 #create decoy Kabooms
-sudo echo 'notthismessage' | base64 > /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/.Ka\ BOOM.txt
+sudo echo 'notthismessage' | base64 > /home/yoda/desktop/naboo/veruna/jarbinks/Jarjarbins/Ka\ BOOM.txt
 sudo echo 'notthismessage' | base64 > /home/yoda/desktop/bespin/cloud2/cloud3/.Ka\ BOOM.txt
-sudo echo 'notthismessage' | base64 > /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/.glacier5/.Ka\ BOOM.txt
-sudo echo 'notthismessage' | base64 > /home/yoda/desktop/.yavin/.yavin4/.yavin8/.yavin13/.achtnak/.Ka\ BOOM.txt
+sudo echo 'notthismessage' | base64 > /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/.glacier5/Ka\ BOOM.txt
+sudo echo 'notthismessage' | base64 > /home/yoda/desktop/.yavin/.yavin4/.yavin8/.yavin13/.achtnak/Ka\ BOOM.txt
 
 #Extension create hoth
 sudo mkdir -p /home/yoda/desktop/hoth/glacier1/glacier2/glacier3/glacier4/.glacier5
